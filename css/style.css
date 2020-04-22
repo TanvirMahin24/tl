@@ -182,6 +182,7 @@ body{
     position:relative;
     text-align:center;
     cursor:default;
+    
     }
     
     .hovereffect .overlay {
@@ -264,13 +265,14 @@ body{
   /*Hover end*/
 
   .videoItem{
-      overflow: hidden;
+      overflow: hidden; 
   }
   .videoYoutube{
       font-size: 2.4rem;
   }
   .img-youtube{
       height: 250px;
+      
   }
   .contact{
     display: block;
