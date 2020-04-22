@@ -65,7 +65,7 @@ body{
     width:100%;
     height: 100%;
     z-index: -1;
-    background: #030303e3;
+    background: #030303be;
 }
 .headerContent {
     position: relative;
@@ -277,7 +277,7 @@ body{
   .contact{
     display: block;
     overflow: hidden;
-    background: url(../images/bg\ main.jpg);
+    background: url(../images/bg2.jpg);
     background-attachment: fixed;
     background-size: cover;
 }
@@ -316,7 +316,7 @@ body{
     width:100%;
     height: 107%;
     z-index: 0;
-    background: #030303e3;
+    background: #030303ab;
 }
 .contactForm{
     padding:5% 12%;
